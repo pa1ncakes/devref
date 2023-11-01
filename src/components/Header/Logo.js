@@ -15,7 +15,7 @@ const Logo = () => {
         />
       </div>
       <span className="font-bold dark:font-semibold text-lg md:text-xl">
-        jstute.live
+        devref.tech
       </span>
     </Link>
   );
